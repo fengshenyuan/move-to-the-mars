@@ -67,11 +67,11 @@ REALWORLD STACK
 
 ![Alt text](./image/deploy.png)
 
-### <center> Deployment </center>
+<center> Deployment </center>
 
 ![Alt text](./image/monitor.jpg)
 
-### <center> Monitoring </center>
+ <center>Monitoring</center>
        
 
 ### 4.三个目标
@@ -110,7 +110,7 @@ REALWORLD STACK
 
 ![Alt text](./image/第一弹APP后端目标架构v1.0.png)
 
-### <center> 第一弹APP后端架构</center>
+ <center>第一弹APP后端架构</center>
 	   
    
 ## 二、Backend Trends
@@ -138,7 +138,7 @@ REALWORLD STACK
 
  ![Alt text](./image/code_compare.png)
 
-### <center> 用量子计算机与超高速大规模非易失性RAM 如何加速开发</center>
+### <center>通用量子计算机与超高速大规模非易失性RAM 如何加速开发</center>
 
 
 ##<center> T  >  Q & A  </center>
