@@ -1,13 +1,13 @@
 # <center>Understand Backend Development</center>
 
-<center>**后端协会半小时从入门到放弃全教程**</center>
+## <center>后端协会半小时从入门到放弃全教程</center>
 
 ### <center> By G.Yuan 2017/05/06</center>
 
 
 
 
-![Alt text](./R2L8RR7.png)
+![Alt text](./image/category.png)
 
 
 
@@ -32,7 +32,7 @@
         
 ### 2.三驾马车
 
- <center> ![Alt text](./下载 - 副本.png)</center>
+ <center> ![Alt text](./image/database_mixed.png)</center>
   
         H1: Database 数据库
 	        Relational/NoSQL/Mixed
@@ -65,13 +65,13 @@ REALWORLD STACK
 
         W3: Monitoring 监控
 
- <center> ![Alt text](./a7c36ff0-6399-11e5-882f-78f50c9134f8.png)
+ <center> ![Alt text](./image/deploy.png)
  </center>
-<center> **Figure Deployment** </center>
+<center> **Deployment** </center>
 
-<center>![Alt text](./FrXq4fPcgGPplWD67V_G_QxNrkZQ.jpg)
+<center>![Alt text](./image/monitor.jpg)
   </center>
-<center> **Figure Monitoring** </center>
+<center> **Monitoring** </center>
        
 
 ### 4.三个目标
@@ -108,9 +108,9 @@ REALWORLD STACK
         A3: Microservice Architecture 
             微服务架构：细粒度，松耦合，大量的无状态的、数据库独立的微服务
 
-<center>![Alt text](./第一弹APP后端目标架构v1.0.png)
+<center>![Alt text](./image/第一弹APP后端目标架构v1.0.png)
 </center>
- <center> **Figure  第一弹APP后端架构**</center>
+ <center> **第一弹APP后端架构**</center>
 	   
    
 ## 二、Backend Trends
@@ -136,9 +136,9 @@ REALWORLD STACK
 
 
 
-<center> ![Alt text](./无标题.png)
+<center> ![Alt text](./image/code_compare.png)
 </center>
-<center> **Figure 通用量子计算机与超高速大规模非易失性RAM 如何加速开发**</center>
+<center> **通用量子计算机与超高速大规模非易失性RAM 如何加速开发**</center>
 
 
 ##<center> T  >  Q & A  </center>
