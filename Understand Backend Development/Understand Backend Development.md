@@ -32,7 +32,7 @@
         
 ### 2.三驾马车
 
- <center> ![Alt text](./image/database_mixed.png)</center>
+![Alt text](./image/database_mixed.png)
   
         H1: Database 数据库
 	        Relational/NoSQL/Mixed
