@@ -65,13 +65,13 @@ REALWORLD STACK
 
         W3: Monitoring 监控
 
- <center> ![Alt text](./image/deploy.png)
- </center>
-<center> **Deployment** </center>
+![Alt text](./image/deploy.png)
 
-<center>![Alt text](./image/monitor.jpg)
-  </center>
-<center> **Monitoring** </center>
+### <center> Deployment </center>
+
+![Alt text](./image/monitor.jpg)
+
+### <center> Monitoring </center>
        
 
 ### 4.三个目标
@@ -108,9 +108,9 @@ REALWORLD STACK
         A3: Microservice Architecture 
             微服务架构：细粒度，松耦合，大量的无状态的、数据库独立的微服务
 
-<center>![Alt text](./image/第一弹APP后端目标架构v1.0.png)
-</center>
- <center> **第一弹APP后端架构**</center>
+![Alt text](./image/第一弹APP后端目标架构v1.0.png)
+
+### <center> 第一弹APP后端架构</center>
 	   
    
 ## 二、Backend Trends
@@ -136,9 +136,9 @@ REALWORLD STACK
 
 
 
-<center> ![Alt text](./image/code_compare.png)
-</center>
-<center> **通用量子计算机与超高速大规模非易失性RAM 如何加速开发**</center>
+ ![Alt text](./image/code_compare.png)
+
+### <center> 用量子计算机与超高速大规模非易失性RAM 如何加速开发</center>
 
 
 ##<center> T  >  Q & A  </center>
