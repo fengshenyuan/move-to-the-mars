@@ -1,2 +1,2 @@
 # doc-coll
-blogs and shares collections
+codes, blogs and shares collections
