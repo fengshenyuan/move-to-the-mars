@@ -6,7 +6,7 @@
 
 # Python
 - 函数执行时间的装饰器
-    ```
+    ```Python
     def runtime_cost(func):
 
         @functools.wraps(method)
@@ -30,7 +30,7 @@
     ```
 
 - map函数的实现
-    ```
+    ```Python
     def map_impl(func, iterable):
         result = []
         try:
