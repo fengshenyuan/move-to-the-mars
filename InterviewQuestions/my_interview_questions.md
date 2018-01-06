@@ -9,7 +9,7 @@
     ```Python
     def runtime_cost(func):
 
-        @functools.wraps(method)
+        @functools.wraps(func)
         def wrapper(*args, **kwargs):
             start_time = time.time()
 
