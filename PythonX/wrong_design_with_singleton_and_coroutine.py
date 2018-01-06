@@ -1,5 +1,24 @@
 # -*- coding:utf8 -*-
 
+# WRONG DESIGN NOTE
+# --------------------------------------------------------------------
+# Guo Yuan 2018/01/06
+# --------------------------------------------------------------------
+# kupper_url = "http://localhost:8888/kupper"
+# mophy_url = "http://localhost:8888/mophy"
+#
+# after start the application
+# access kupper_url, wait 2 seconds, then access mophy_url
+# you'll see that mophy request handler change kupper request
+# handler's db_session without notification, and kupper request
+# handler closed mophy request handler's db_session!
+# it's totally a wrong design trying to manage coroutine's individual
+# resource with a singleton db controller.
+# since every coroutine need individual db session, the best way is
+# keep this resource only in the control of current coroutine, which means
+# every coroutine needs a db controller instance, instead of a singletion
+# db controller for whole application.
+
 import tornado.httpserver
 import tornado.ioloop
 import tornado.options
@@ -98,20 +117,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-    # kupper_url = "http://localhost:8888/kupper"
-    # mophy_url = "http://localhost:8888/mophy"
-    # after start the application
-    # access kupper_url, wait 2 seconds, then access mophy_url
-    # you'll see that mophy request handler change kupper request
-    # handler's db_session without notification, and kupper request
-    # handler closed mophy request handler's db_session!
-    # it's totally a wrong design trying to manage coroutine's individual
-    # resource with a singleton db controller.
-    # since every coroutine need individual db session, the best way is
-    # keep this resource only in the control of current coroutine, which means
-    # every coroutine needs a db controller instance, instead of a singletion
-    # db controller for whole application.
-
-
-
