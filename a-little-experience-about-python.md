@@ -35,9 +35,10 @@ print(s._x)
     
 ## python super
 
- - super() is just a normal function. You can call super() anywhere if u can pass it the right parameters.(You can call it outside a cal)
+ * super() is just a normal function. You can call super() anywhere if u can pass it the right parameters.(You can call it outside a class)
+ *  call super().__init__ not means 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0OTk3MjE0LC03NzY4MzU0ODEsMTkwMz
-UwMjYzOV19
+eyJoaXN0b3J5IjpbLTc5MjgzMzg3NCwtNzc2ODM1NDgxLDE5MD
+M1MDI2MzldfQ==
 -->
