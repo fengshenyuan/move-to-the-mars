@@ -23,14 +23,18 @@ class Sample(object):
         return super().__getattribute__(item)
 
 
-s = Sample(1,10)
+s = Sample('a', 'b')
 print(s.a)
 print(s.b)
 print(s._x)
+# result
+# 'a'
+# 10
+#
 ```
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTYwMjIxMiwtNzc2ODM1NDgxLDE5MD
-M1MDI2MzldfQ==
+eyJoaXN0b3J5IjpbNzY4OTI0ODYsLTc3NjgzNTQ4MSwxOTAzNT
+AyNjM5XX0=
 -->
