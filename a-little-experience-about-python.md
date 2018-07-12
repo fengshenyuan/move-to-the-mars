@@ -35,7 +35,9 @@ print(s._x)
     
 ## python super
 
+ - super() is just a normal function. You can call super() anywhere if u can pass it the right parameters.(You can call it outside a cal)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQ0NDc0ODcsLTc3NjgzNTQ4MSwxOT
-AzNTAyNjM5XX0=
+eyJoaXN0b3J5IjpbNjU0OTk3MjE0LC03NzY4MzU0ODEsMTkwMz
+UwMjYzOV19
 -->
