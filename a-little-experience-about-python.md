@@ -28,13 +28,13 @@ print(s.a)
 print(s.b)
 print(s._x)
 # result
-# 'a'
-# 10
-#
+# a
+# b
+# _x
 ```
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY4OTI0ODYsLTc3NjgzNTQ4MSwxOTAzNT
-AyNjM5XX0=
+eyJoaXN0b3J5IjpbMjA5ODY0MjY2NiwtNzc2ODM1NDgxLDE5MD
+M1MDI2MzldfQ==
 -->
