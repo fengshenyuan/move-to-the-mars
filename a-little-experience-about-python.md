@@ -5,10 +5,32 @@
 ## `__getattr__ vs __getattribute__`
 * __getattribute__ will called before you look up attribute in normal place, such as __dict__, super(), etc.
 * __getattr__ will called after you looked up in normal place
-* A good sample:
+* __getattribute__ AA good sample:
+```
+class Sample(object):
 
-    enter code here
+    def __init__(self, a, b):
+        self.a = a
+        self.b = b
+        self._x = None
+
+    def __getattr__(self, item):
+        return str(item)
+
+    def __getattribute__(self, item):
+        if item.startswith('_'):
+            raise AttributeError
+        return super().__getattribute__(item)
+
+
+s = Sample(1,10)
+print(s.a)
+print(s.b)
+print(s._x)
+```
+    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NjgzNTQ4MSwxOTAzNTAyNjM5XX0=
+eyJoaXN0b3J5IjpbLTQzOTIyODM4NywtNzc2ODM1NDgxLDE5MD
+M1MDI2MzldfQ==
 -->
