@@ -33,8 +33,9 @@ print(s._x)
 # _x
 ```
     
+## python super
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5ODY0MjY2NiwtNzc2ODM1NDgxLDE5MD
-M1MDI2MzldfQ==
+eyJoaXN0b3J5IjpbLTE3MTQ0NDc0ODcsLTc3NjgzNTQ4MSwxOT
+AzNTAyNjM5XX0=
 -->
