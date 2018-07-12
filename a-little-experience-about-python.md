@@ -40,6 +40,7 @@
  * When u want something implemented in parent classes, try super.
  * When u want to understand the behavior of super, print A.mro or `A.__class__.__mro__`.
 	```
+	# a simple demo to understand how super works
 	def my_super(clazz, inst):
 	    mro_list = inst.__class__.__mro__
 	    for i, parent_clazz in enumerate(mro_list):
@@ -49,6 +50,6 @@
 	```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODY1NzQ1NCwxODAzOTc5NTQwLC03ND
+eyJoaXN0b3J5IjpbMTg5ODYyNTE4NywxODAzOTc5NTQwLC03ND
 AyNzQ2NTIsLTc3NjgzNTQ4MSwxOTAzNTAyNjM5XX0=
 -->
