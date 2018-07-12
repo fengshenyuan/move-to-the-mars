@@ -3,9 +3,9 @@
 <center>Author G.Yuan 2018/07/05</center>
 
 ## `__getattr__ vs __getattribute__`
-* `__getattribute__ will called before you look up attribute in normal place, such as __dict__, super(), etc.
-* __getattr__ will called after you looked up in normal place
-* __getattribute__ AttribureError Exception will be ignored and continue to look up in normal place and __getattr__ . A good sample:
+* `__getattribute__` will be called before you look up attribute in normal place, such as `__dict__`, super(), etc.
+* `__getattr__ `will be called after you looked up in normal place.
+* `__getattribute__`  AttribureError Exception will be ignored and continue to look up in normal place and `__getattr__` . A good sample:
 ```
 class Sample(object):
 
@@ -31,6 +31,6 @@ print(s._x)
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NDIwNDQsLTc3NjgzNTQ4MSwxOTAzNT
-AyNjM5XX0=
+eyJoaXN0b3J5IjpbMTAzNTYwMjIxMiwtNzc2ODM1NDgxLDE5MD
+M1MDI2MzldfQ==
 -->
