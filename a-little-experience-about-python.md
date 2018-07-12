@@ -36,9 +36,9 @@ print(s._x)
 ## python super
 
  * super() is just a normal function. You can call super() anywhere if u can pass it the right parameters.(You can call it outside a class)
- *  call super().__init__ not means the interpreter will init all the parent classes right for u. It just says that I will find the next 
+ *  call super().__init__ not means the interpreter will init all the parent classes right for u. It just says that I will find the next `parent` in the chain, then call __init__.(No promise abo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTEwNzIxMDcsLTc3NjgzNTQ4MSwxOT
-AzNTAyNjM5XX0=
+eyJoaXN0b3J5IjpbMTQwODg0NjQyMCwtNzc2ODM1NDgxLDE5MD
+M1MDI2MzldfQ==
 -->
