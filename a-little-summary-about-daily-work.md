@@ -10,12 +10,12 @@
 
 ## What can be learned from NewRelic Gevent Tracing Issue?
 > **Backgroud**
-> 2018/08/21 We use NewRelic Python Agent v2.62.0.47 to trace Mir
+> 2018/08/21 We use NewRelic Python Agent v2.62.0.47 to trace Mircroserive-remote-call time cost with Function
 * If some problems happend with a 3rd party library or framework, try to find info and solutions on their official channel. 
 * IMPORT: If a new version or update availiable, try it first.
 * If official cannot solve the problems, try others.
 * Before we make sure ourself solution is OK. Add most general expection try-catch with the untest code to protect the production env from unexpected crash.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTE2NjI2NzksMTg1NjQ4ODA2MywtND
-E1OTUxNDU1XX0=
+eyJoaXN0b3J5IjpbOTk1MTE5MzM1LDE4NTY0ODgwNjMsLTQxNT
+k1MTQ1NV19
 -->
