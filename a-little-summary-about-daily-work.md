@@ -10,7 +10,9 @@
 
 ## What can be learned from NewRelic Gevent Tracing Issue?
 * If some problems happend with a 3rd party library or framework, try find info and solutions on their official channel. 
-* IMPORT: If new version or update 
+* IMPORT: If new version or update availiable, try it first.
+* If official cannot solve the problems, try others.
+* Before we make sure our
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjU0MTg1NDNdfQ==
+eyJoaXN0b3J5IjpbLTEzOTcxNjQ5ODRdfQ==
 -->
