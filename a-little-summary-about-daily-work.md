@@ -10,12 +10,12 @@
 
 ## What can be learned from NewRelic Gevent Tracing Issue?
 > **Backgroud**
-> 2018/08/21 We use NewRelic Python Agent v2.62.0.47 to trace Mircroserive-remote-call time cost with FunctionTrace context manager in gevent spawn coroutines. But the agent lose the transaction in gevent and when we keep the current transacton
+> 2018/08/21 We use NewRelic Python Agent v2.62.0.47 to trace Mircroserive-remote-call time cost with FunctionTrace context manager in gevent spawn coroutines. But the agent lose the transaction in gevent and when we keep the current transaction and application object in flask request to provide a access in gevent. The agent actually throws excp
 * If some problems happend with a 3rd party library or framework, try to find info and solutions on their official channel. 
 * IMPORT: If a new version or update availiable, try it first.
 * If official cannot solve the problems, try others.
 * Before we make sure ourself solution is OK. Add most general expection try-catch with the untest code to protect the production env from unexpected crash.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzNjYzMDgsMTg1NjQ4ODA2MywtNDE1OT
-UxNDU1XX0=
+eyJoaXN0b3J5IjpbMTAwNjYxODY0OSwxODU2NDg4MDYzLC00MT
+U5NTE0NTVdfQ==
 -->
