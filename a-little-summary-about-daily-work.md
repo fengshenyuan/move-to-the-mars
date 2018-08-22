@@ -9,7 +9,7 @@
 * Comment only when it must. Code speaks themselves.
 
 ## What can be learned from NewRelic Gevent Tracing Issue?
-* 
+* If some problems happend with a 3rd party library or framework, try find info and solutions 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NjYyMjUzMF19
+eyJoaXN0b3J5IjpbMTkzOTc1NDYyMF19
 -->
