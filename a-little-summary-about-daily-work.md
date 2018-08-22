@@ -9,10 +9,10 @@
 * Comment only when it must. Code speaks themselves.
 
 ## What can be learned from NewRelic Gevent Tracing Issue?
-* If some problems happend with a 3rd party library or framework, try find info and solutions on their official channel. 
-* IMPORT: If new version or update availiable, try it first.
+* If some problems happend with a 3rd party library or framework, try to find info and solutions on their official channel. 
+* IMPORT: If a new version or update availiable, try it first.
 * If official cannot solve the problems, try others.
 * Before we make sure ourself solution is OK. Add most general expection try-catch with the untest code to protect the production env from unexpected crash.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTI2ODM5MDddfQ==
+eyJoaXN0b3J5IjpbLTI3MDkzOTI3MV19
 -->
