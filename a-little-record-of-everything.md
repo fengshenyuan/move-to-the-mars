@@ -8,7 +8,8 @@ https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html
 https://www.kennethreitz.org/
 * GitHub Marketplace
 https://github.com/marketplace
-
+* A little book 《Personal Smart Assistant for Digital Media and Advertisement》AI Related, Voice Interactive
+https://pdfs.semanticscholar.org/bb1b/0763356dfeb975138cd33d2d0af288bddfb9.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NzQ2MDgwNl19
+eyJoaXN0b3J5IjpbLTE0NjY3NzE2ODBdfQ==
 -->
