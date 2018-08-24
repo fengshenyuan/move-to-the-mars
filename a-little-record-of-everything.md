@@ -11,7 +11,7 @@ https://github.com/marketplace
 * A little book 《Personal Smart Assistant for Digital Media and Advertisement》AI Related, Voice Interactive
 https://pdfs.semanticscholar.org/bb1b/0763356dfeb975138cd33d2d0af288bddfb9.pdf
 * A good explain about Python Object & Type & Metaclass
-* 
+Python 的 type 和 object 之间是怎么一种关系？ - jeff kit的回答 - 知乎 https://www.zhihu.com/question/38791962/answer/78172929
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4Nzc1OTU4LC0xNDY2NzcxNjgwXX0=
+eyJoaXN0b3J5IjpbMjExMTgyNDUzOCwtMTQ2Njc3MTY4MF19
 -->
