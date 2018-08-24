@@ -10,6 +10,8 @@ https://www.kennethreitz.org/
 https://github.com/marketplace
 * A little book 《Personal Smart Assistant for Digital Media and Advertisement》AI Related, Voice Interactive
 https://pdfs.semanticscholar.org/bb1b/0763356dfeb975138cd33d2d0af288bddfb9.pdf
+* A good explain about Python Object & Type & Metaclass
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjY3NzE2ODBdfQ==
+eyJoaXN0b3J5IjpbLTc4Nzc1OTU4LC0xNDY2NzcxNjgwXX0=
 -->
