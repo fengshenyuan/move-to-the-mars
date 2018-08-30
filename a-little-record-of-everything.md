@@ -18,9 +18,9 @@ http://docs.gunicorn.org/en/stable/design.html
 The Answer is a real good example of how to write a doc.
 * Python open file mode
 https://stackoverflow.com/questions/1466000/python-open-built-in-function-difference-between-modes-a-a-w-w-and-r
-* Should always keep to output file or data in UTF-8 encoding of our System
+* Should always keep to output file or data in UTF-8 encoding of our System.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzkxOTYzLC0xOTg0OTIzLDE1ODc1Mz
-YzMDYsLTE3NTc4NTQxODgsMjExMTgyNDUzOCwtMTQ2Njc3MTY4
-MF19
+eyJoaXN0b3J5IjpbLTc0MTg1NzgxMywtMTk4NDkyMywxNTg3NT
+M2MzA2LC0xNzU3ODU0MTg4LDIxMTE4MjQ1MzgsLTE0NjY3NzE2
+ODBdfQ==
 -->
