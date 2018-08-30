@@ -19,9 +19,16 @@ The Answer is a real good example of how to write a doc.
 * Python open file mode
 https://stackoverflow.com/questions/1466000/python-open-built-in-function-difference-between-modes-a-a-w-w-and-r
 * Should always keep to output file or data in UTF-8 encoding of our System.
-* Click the link from vscode  may cause a encoded url change to a unencoded url. This has token me a big effort to debug the s3 presigned url retrivel issue. Here is the exam
+* Click the link from vscode  may cause a encoded url change to a unencoded url. This has token me a big effort to debug the s3 presigned url retrivel issue. Here is the example
+```
+# If you click the link in vscode directly
+# and
+https://s3.amazonaws.com/feature-appannie-report-export/bulk_data_poc/Metrics/est_download__sum.US.Overall.ios-phone.weekly.2018-08-04.data.csv?Signature=WWJc1COFfCN3R%2F4Ntlx%2Bg5UB2aM%3D&Expires=1535627472&AWSAccessKeyId=AKIAI24LXKOWQGIZ5BTA
+
+https://s3.amazonaws.com/feature-appannie-report-export/bulk_data_poc/Metrics/est_download__sum.US.Overall.ios-phone.weekly.2018-08-04.data.csv?Signature=WWJc1COFfCN3R/4Ntlx+g5UB2aM=&Expires=1535627472&AWSAccessKeyId=AKIAI24LXKOWQGIZ5BTA
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQyNzcwODksLTc0MTg1NzgxMywtMT
-k4NDkyMywxNTg3NTM2MzA2LC0xNzU3ODU0MTg4LDIxMTE4MjQ1
-MzgsLTE0NjY3NzE2ODBdfQ==
+eyJoaXN0b3J5IjpbOTY5NjY3ODYwLC03NDE4NTc4MTMsLTE5OD
+Q5MjMsMTU4NzUzNjMwNiwtMTc1Nzg1NDE4OCwyMTExODI0NTM4
+LC0xNDY2NzcxNjgwXX0=
 -->
