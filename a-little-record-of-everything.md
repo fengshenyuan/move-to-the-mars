@@ -16,8 +16,11 @@ Python 的 type 和 object 之间是怎么一种关系？ - jeff kit的回答 - 
 http://docs.gunicorn.org/en/stable/design.html
 * [What are metaclasses in Python?](https://stackoverflow.com/questions/100003/what-are-metaclasses-in-python)
 The Answer is a real good example of how to write a doc.
-
+* Python open file mode
+https://stackoverflow.com/questions/1466000/python-open-built-in-function-difference-between-modes-a-a-w-w-and-r
+* Should always keep to output file or data in UTF-8 encoding of our System
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQ5MjMsMTU4NzUzNjMwNiwtMTc1Nz
-g1NDE4OCwyMTExODI0NTM4LC0xNDY2NzcxNjgwXX0=
+eyJoaXN0b3J5IjpbMTI1MzkxOTYzLC0xOTg0OTIzLDE1ODc1Mz
+YzMDYsLTE3NTc4NTQxODgsMjExMTgyNDUzOCwtMTQ2Njc3MTY4
+MF19
 -->
