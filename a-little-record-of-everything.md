@@ -19,9 +19,9 @@ The Answer is a real good example of how to write a doc.
 * Python open file mode
 https://stackoverflow.com/questions/1466000/python-open-built-in-function-difference-between-modes-a-a-w-w-and-r
 * Should always keep to output file or data in UTF-8 encoding of our System.
-* Click the link from VSCode 
+* Click the link from vscode  may cause a encoded url change to a un
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMDE0MDIwNiwtNzQxODU3ODEzLC0xOT
+eyJoaXN0b3J5IjpbLTE2OTA2MzgzOSwtNzQxODU3ODEzLC0xOT
 g0OTIzLDE1ODc1MzYzMDYsLTE3NTc4NTQxODgsMjExMTgyNDUz
 OCwtMTQ2Njc3MTY4MF19
 -->
