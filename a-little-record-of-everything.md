@@ -31,8 +31,10 @@ https://s3.amazonaws.com/feature-appannie-report-export/bulk_data_poc/Metrics/es
 https://s3.amazonaws.com/feature-appannie-report-export/bulk_data_poc/Metrics/est_download__sum.US.Overall.ios-phone.weekly.2018-08-04.data.csv?Signature=WWJc1COFfCN3R/4Ntlx+g5UB2aM=&Expires=1535627472&AWSAccessKeyId=AKIAI24LXKOWQGIZ5BTA
 ```
 **For url encode and decode, we should always keep the output of our system is a valid url(encode the url before we use it). Never paste a encoded url into the address bar of a browwer. The browser will try to encode the url to its own standard!!**
+>Reference: http://www.ruanyifeng.com/blog/2010/02/url_encoding.html
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NjY5ODAzNiwtMTExODY0OTExMiwtNz
-QxODU3ODEzLC0xOTg0OTIzLDE1ODc1MzYzMDYsLTE3NTc4NTQx
-ODgsMjExMTgyNDUzOCwtMTQ2Njc3MTY4MF19
+eyJoaXN0b3J5IjpbLTEwMDk0NDI5ODgsLTExMTg2NDkxMTIsLT
+c0MTg1NzgxMywtMTk4NDkyMywxNTg3NTM2MzA2LC0xNzU3ODU0
+MTg4LDIxMTE4MjQ1MzgsLTE0NjY3NzE2ODBdfQ==
 -->
