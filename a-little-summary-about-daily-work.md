@@ -29,8 +29,8 @@
 * Before we make sure ourself solution is OK. Add most general expection try-catch with the untest code to protect the production env from unexpected crash.
 
 ## Python Problems
-* pycrypto & pycryptodome will conflict
+* pycrypto & pycryptodome will conflict. Both of them will use installed the `Crypto` package directory.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NzY5MzIwMSwxMTU4NDcxNDY4LDE4NT
-Y0ODgwNjMsLTQxNTk1MTQ1NV19
+eyJoaXN0b3J5IjpbMjMxMzUyNzMzLDExNTg0NzE0NjgsMTg1Nj
+Q4ODA2MywtNDE1OTUxNDU1XX0=
 -->
