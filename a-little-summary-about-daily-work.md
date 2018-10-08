@@ -27,7 +27,10 @@
 * IMPORT: If a new version or update availiable, try it first.
 * If official cannot solve the problems, try others.
 * Before we make sure ourself solution is OK. Add most general expection try-catch with the untest code to protect the production env from unexpected crash.
+
+## Python Problems
+* pycrapyto will 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1ODQ3MTQ2OCwxODU2NDg4MDYzLC00MT
-U5NTE0NTVdfQ==
+eyJoaXN0b3J5IjpbMTc1ODg4ODEsMTE1ODQ3MTQ2OCwxODU2ND
+g4MDYzLC00MTU5NTE0NTVdfQ==
 -->
