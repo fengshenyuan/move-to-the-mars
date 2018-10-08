@@ -29,8 +29,8 @@
 * Before we make sure ourself solution is OK. Add most general expection try-catch with the untest code to protect the production env from unexpected crash.
 
 ## Python Problems
-* pycrapyto will 
+* pycrypto & pycryptodome will conflict
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODg4ODEsMTE1ODQ3MTQ2OCwxODU2ND
-g4MDYzLC00MTU5NTE0NTVdfQ==
+eyJoaXN0b3J5IjpbLTk4NzY5MzIwMSwxMTU4NDcxNDY4LDE4NT
+Y0ODgwNjMsLTQxNTk1MTQ1NV19
 -->
