@@ -13,6 +13,7 @@
 - [The Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
 
 # Architecture & Microservice
+- [The Twelve Factors from Heroku](https://12factor.net/)
 - [Serverless Architectures from the famous martinfowler.com](https://martinfowler.com/articles/serverless.html)
 - [基于 Docker 的微服务架构实践](http://dockone.io/article/4887)
 - [技术架构的选择决定公司的格局范围](http://dockone.io/article/4655)
@@ -35,6 +36,13 @@
 - [AsyncIO for the Working Python Developer翻译](https://www.jianshu.com/p/af61273d7c8e)
 - [(译)Python的隐藏特性(StackOverflow)](https://pyzh.readthedocs.io/en/latest/python-hidden-features.html)
 - [深入理解Python异步编程(上)](https://mp.weixin.qq.com/s?__biz=MzIxMjY5NTE0MA==&mid=2247483720&idx=1&sn=f016c06ddd17765fd50b705fed64429c)
+
+# Open API
+- [Understanding the Differences Between API Documentation, Specifications, and Definitions](https://swagger.io/resources/articles/difference-between-api-documentation-specification/)
+- [Understanding  the API-First Approach to Building Products](https://swagger.io/resources/articles/adopting-an-api-first-approach/)
+- [API-first software development for modern organizations](https://medium.com/better-practices/api-first-software-development-for-modern-organizations-fdbfba9a66d3)
+- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)
+
 
 # Conference & Tech Open
 - Google I/O
