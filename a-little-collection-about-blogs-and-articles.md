@@ -43,6 +43,9 @@
 - [API-first software development for modern organizations](https://medium.com/better-practices/api-first-software-development-for-modern-organizations-fdbfba9a66d3)
 - [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)
 
+# AI
+- [The combination of human and artificial intelligence will define humanity’s future](https://techcrunch.com/2016/10/12/the-combination-of-human-and-artificial-intelligence-will-define-humanitys-future/)
+
 
 # Conference & Tech Open
 - Google I/O
