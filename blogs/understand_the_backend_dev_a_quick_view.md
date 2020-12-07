@@ -7,7 +7,7 @@
 
 
 
-![Alt text](./image/category.png)
+![Alt text](../image/category.png)
 
 
 
@@ -32,7 +32,7 @@
         
 ### 2.三驾马车
 
-![Alt text](./image/database_mixed.png)
+![Alt text](../image/database_mixed.png)
   
         H1: Database 数据库
 	        Relational/NoSQL/Mixed
@@ -65,11 +65,11 @@ REALWORLD STACK
 
         W3: Monitoring 监控
 
-![Alt text](./image/deploy.png)
+![Alt text](../image/deploy.png)
 
 <center> Deployment </center>
 
-![Alt text](./image/monitor.jpg)
+![Alt text](../image/monitor.jpg)
 
  <center>Monitoring</center>
        
@@ -108,7 +108,7 @@ REALWORLD STACK
         A3: Microservice Architecture 
             微服务架构：细粒度，松耦合，大量的无状态的、数据库独立的微服务
 
-![Alt text](./image/第一弹APP后端目标架构v1.0.png)
+![Alt text](../image/第一弹APP后端目标架构v1.0.png)
 
  <center>第一弹APP后端架构</center>
 	   
@@ -136,7 +136,7 @@ REALWORLD STACK
 
 
 
- ![Alt text](./image/code_compare.png)
+ ![Alt text](../image/code_compare.png)
 
 ### <center>通用量子计算机与超高速大规模非易失性RAM 如何加速开发</center>
 

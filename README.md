@@ -19,7 +19,7 @@
 
 ## 面试问题
 - [我的面试问题集](N&T/my_interview_questions.md)
-- [SmartX: 求 1~N中，数字x (0~9) 出现的次数](scripts/interviews/smartx_case02.py)
+- [SmartX: 求 1 ~ N 中，数字x (0 ~ 9) 出现的次数](scripts/interviews/smartx_case02.py)
 - [SmartX: 有一个m*n整数矩阵，从左到右单调递增，从上到下单调递增，判断一个指定的数是否在此矩阵中？](scripts/interviews/smartx_case01.py)
 
 ## N & T
